@@ -11,10 +11,3 @@ Features
 - Model Performance**: View accuracy, confusion matrix, and classification report on the dataset.
 - User-Friendly Interface**: The result is displayed with a colored background to clearly indicate whether an email is Spam (red) or Not Spam (green).
 
- Installation
-
- Clone the Repository
-
-```bash
-git clone https://github.com/your-username/spam-email-classifier.git
-cd spam-email-classifier
